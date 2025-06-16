@@ -44,13 +44,15 @@ All queries were merged into a single exportable dataset, structured for easy us
 
 ---
 
-## ⚡ Example Power BI Visuals
+## ⚡ Power BI Visuals
 
 - Accident severity distribution (bar/pie chart)
 - Accidents by country (map/stacked bar)
 - Monthly trend of severe accidents (line chart)
 - Top critical risks (horizontal bar)
 - Actual vs potential severity matrix (heatmap/table)
+- ![Uploading image.png…]()
+
 
 ---
 
