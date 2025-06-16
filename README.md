@@ -51,7 +51,10 @@ All queries were merged into a single exportable dataset, structured for easy us
 - Monthly trend of severe accidents (line chart)
 - Top critical risks (horizontal bar)
 - Actual vs potential severity matrix (heatmap/table)
-- ![Uploading image.png…]()
+
+
+  ![image](https://github.com/user-attachments/assets/5f359946-7cb9-4c3c-ba28-247499ff2834)
+
 
 
 ---
